@@ -154,3 +154,4 @@ while iniciou:
             print("Então vamos continuar essa zoeira !")
             print(total)
             continue
+#fim
